@@ -3,8 +3,6 @@
 <div style="page-break-after: always;"></div>
 ## 1. Database Creation
 First, I designed the schema using www.quickdatabasediagrams.com. I've been using draw.io to design schemas at work, but this is far superior (though I guess it should be since it requires a subscription and draw.io is free!).
- 
-  
 ![](/EmployeeSQL/EmployeeSQL_DB_Schema.png)
 
 <div style="page-break-after: always;"></div>
