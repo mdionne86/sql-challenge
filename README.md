@@ -13,3 +13,7 @@ Second, I created the SQL scripts to:
 
 I created the tables with PKs only first, then I created the tables with FKs second.
 ## 2. Analysis
+
+The analysis consisted of sql queries using JOINS when neccesary. 
+## 3. Plots
+Pulling it into python was relatively straightforward by following the provided documentation. I decided to only pull the data from the database that I needed, which required a 3 table join. 
